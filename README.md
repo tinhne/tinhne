@@ -56,11 +56,3 @@
 - 📝 **Personal Blog Platform** – Fullstack app with Fastify + PostgreSQL + Vue.js.
 - 📊 **Electricity Demand Forecasting** – AI model using LSTM for time-series prediction.
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinhne&theme=tokyonight" alt="tinhne's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=tinhne&theme=tokyonight" alt="tinhne's GitHub streak" />
-</div>
