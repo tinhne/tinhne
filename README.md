@@ -1,67 +1,66 @@
-<h1 align="center">Hi 👋, I'm Trung Tính</h1>
-<h3 align="center">A passionate Software Engineer from Vietnam</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Trung%20T%C3%ADnh!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Fullstack%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=62" />
+</div>
+
+<h3 align="center">A passionate Software Engineer from Vietnam 🇻🇳</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/trung-t%C3%ADnh-l%C3%AA-v%C4%83n-b72669297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/tinhne"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Majored in **Software Engineering**
-- 💡 Interested in **Backend Development, AI, and DevOps**
-- 🌱 Currently learning **Java Spring Boot, Node.js, and Cloud technologies**
+- 🎓 Majored in **Software Engineering** at **Duy Tan University**.
+- 💡 Interested in **Backend Development, Fullstack with Next.js, AI, and DevOps**.
+- 🛠️ Built custom implementations of **Data Structures** (Queue, ArrayList, HashTable, Tree, Stack, etc.) from scratch to deepen my core understanding of computer science.
+- ⚡ Fun fact: I love building systems that combine **AI + scalable backend architecture**.
 - 📫 How to reach me: **levantrungtinh13@gmail.com**
-- ⚡ Fun fact: I love building systems that combine **AI + scalable backend**
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack & Tools
 
-#### Languages
+**Languages:**<br/>
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Frameworks & Libraries:**<br/>
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
+![tRPC](https://img.shields.io/badge/tRPC-2596B6?style=flat-square&logo=trpc&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) 
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
-#### Frameworks & Libraries
+**Databases:**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-#### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 Projects Pinned
-
-- 💬 **Medical Chatbot System** – AI-powered chatbot for disease & symptom analysis
-- 📝 **Personal Blog Platform** – Fullstack app with Fastify + PostgreSQL + Vue.js
-- 📊 **Electricity Demand Forecasting** – AI model using LSTM for time-series prediction
+**DevOps & Tools:**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="langs" />
-</p>
+- 🤝 **Meet AI** – An AI-powered meeting application built with modern web technologies: `Next.js`, `tRPC`, `Polar`, `Inngest`, `Neon` (Serverless Postgres), `Drizzle ORM`, and `Better Auth`.
+- 💬 **Medical Chatbot System** – AI-powered chatbot for disease & symptom analysis.
+- 📝 **Personal Blog Platform** – Fullstack app with Fastify + PostgreSQL + Vue.js.
+- 📊 **Electricity Demand Forecasting** – AI model using LSTM for time-series prediction.
 
 ---
 
-### 🌐 Connect with me
+### 📊 GitHub Analytics
 
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/your-github-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinhne&show_icons=true&theme=tokyonight" alt="tinhne's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhne&layout=compact&theme=tokyonight" alt="tinhne's top languages" height="192px"/>
+</div>
