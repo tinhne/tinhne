@@ -61,6 +61,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinhne&show_icons=true&theme=tokyonight" alt="tinhne's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhne&layout=compact&theme=tokyonight" alt="tinhne's top languages" height="192px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinhne&theme=tokyonight" alt="tinhne's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=tinhne&theme=tokyonight" alt="tinhne's GitHub streak" />
 </div>
