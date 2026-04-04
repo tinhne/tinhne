@@ -8,7 +8,7 @@
 - 🎓 Majored in **Software Engineering**
 - 💡 Interested in **Backend Development, AI, and DevOps**
 - 🌱 Currently learning **Java Spring Boot, Node.js, and Cloud technologies**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **levantrungtinh13@gmail.com**
 - ⚡ Fun fact: I love building systems that combine **AI + scalable backend**
 
 ---
