@@ -57,9 +57,9 @@ I build practical software end to end: typed APIs and data models on the backend
 
 | Area | Technologies |
 | --- | --- |
-| Languages | TypeScript, JavaScript, Java, Kotlin, Python, SQL |
+| Languages | TypeScript, JavaScript, Java, Python, SQL |
 | Backend | Spring Boot (Security, Data JPA, WebSocket), NestJS, Fastify, Express, tRPC, FastAPI, REST |
-| Frontend & mobile | React, Next.js, Tailwind CSS, shadcn/ui, TanStack Query, Jetpack Compose (Android Automotive) |
+| Frontend & mobile | React, Next.js, Tailwind CSS, shadcn/ui, TanStack Query |
 | Databases | PostgreSQL, MySQL, MongoDB · Prisma, Drizzle, JPA/Hibernate, TypeORM, Mongoose |
 | AI & automation | OpenAI Realtime API, Google Gemini API, XGBoost, scikit-learn, pandas, Inngest background jobs |
 | Cloud & DevOps | Docker, Docker Compose, Vercel, Render, Neon, Linux, Bash |
